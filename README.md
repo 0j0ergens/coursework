@@ -1,1 +1,1 @@
-Collection of CS coursework. Contains projects/homework from CS142 (Python) to Systems Programming I and II (C). 
+Coursework from from CS142 to Systems Programming I and II, split into C and Python.
